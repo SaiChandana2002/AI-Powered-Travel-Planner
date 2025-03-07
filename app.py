@@ -6,7 +6,7 @@ from langchain_core.output_parsers import StrOutputParser
 import os
 
 # ✅ Fetch API Key
-API_KEY = os.getenv("GOOGLE_API_KEY")
+API_KEY = "AIzaSyBug-giyhrCH_Jg9ktCmyvMdhtHtidRZMY"
 
 # ✅ Validate API Key
 if not API_KEY:
